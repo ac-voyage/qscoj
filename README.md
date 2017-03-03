@@ -1,2 +1,2 @@
 # qscoj
-Sample codes accepted to problems in UVa Online Judge.
+Sample codes accepted to problems in qsc oj.
